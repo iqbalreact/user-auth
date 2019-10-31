@@ -27,7 +27,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 #add devise auth
-gem 'devise', '~> 4.2'
+gem 'devise', '~> 4.7'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
